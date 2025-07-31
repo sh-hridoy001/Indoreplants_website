@@ -1,5 +1,4 @@
 # IndorePlant – Your Green Companion
-
 Welcome to **IndorePlant**!  
 An elegant, mobile‑friendly plant shop built with web tech. This site showcases a wide range of houseplants, each with detailed care tips, pricing, and high‑resolution photos. 
 
