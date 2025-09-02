@@ -1,5 +1,5 @@
 # IndorePlant – Your Green Companion
-https://github.com/sh-hridoy001/Indoreplants_website/blob/main/Screenshot%202025-09-02%20103450.png
+![Project Banner](Screenshot%202025-09-02%20103450.png)
 
 Welcome to **IndorePlant**!  
 An elegant, mobile‑friendly plant shop built with web tech. This site showcases a wide range of houseplants, each with detailed care tips, pricing, and high‑resolution photos. 
